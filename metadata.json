@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Arena Leaderboard \u0026 Quiz Platform",
+  "description": "A gamified esports and educational quiz tournament platform with real-time interactive live leaderboards, weekly and monthly rankings, and active quiz simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
